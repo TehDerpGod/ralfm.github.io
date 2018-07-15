@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+    
+}
+
+#ab{
+    background-color: lightblue;
+}
+#about{
+    box-shadow: 5px 5px;
+    background-color:gold;
+}
+.about{
+    font-family: georgia;
+    font-size: 20px
+}
+
+#contact{
+    background-color: orange;
+    
+}
+
+#cont{
+    background-color: purple;
+    box-shadow:5px 5px;
+}
